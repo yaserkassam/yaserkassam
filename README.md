@@ -1,4 +1,4 @@
 - Hi, I’m Yaser Kassam
-- My email is yaser.m.kassam@gmail.com and my linkedin link is [Yaser Kassam Linkedin link](https://www.linkedin.com/in/yaser-kassam-b5731515b/)
+- My email is yaser.m.kassam@gmail.com and my linkedin link is [Yaser Kassam](https://www.linkedin.com/in/yaser-kassam-b5731515b/)
 - I’m interested in working in a data analytics field
 - I’m currently continuing to grow my skillset in data analytic tools and programs
