@@ -1,4 +1,10 @@
-- Hi, I’m Yaser Kassam
-- My email is yaser.m.kassam@gmail.com and my linkedin link is [Yaser Kassam](https://www.linkedin.com/in/yaser-kassam-b5731515b/)
-- I’m interested in working in a analytics field
-- I’m currently continuing to grow my skillset in data analytic tools and programs
+# Hi, my name is Yaser Kassam
+## Data Analyst 
+### Personal info
+- Email: yaser.m.kassam@gmail.com
+- LinkedIn: [Yaser Kassam](https://www.linkedin.com/in/yaser-kassam-b5731515b/)
+### Data Projects
+- [**NFT Model**](https://github.com/aortiz224/bootcamp_finalproject)
+- [**Neural Network Analysis**](https://github.com/yaserkassam/Neural_Network_Charity_Analysis)
+- [**Plotly**](https://github.com/yaserkassam/plotly_deployment)
+- 
