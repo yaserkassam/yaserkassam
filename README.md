@@ -7,4 +7,7 @@
 - [**NFT Model**](https://github.com/aortiz224/bootcamp_finalproject)
 - [**Neural Network Analysis**](https://github.com/yaserkassam/Neural_Network_Charity_Analysis)
 - [**Plotly**](https://github.com/yaserkassam/plotly_deployment)
-- 
+- [**Diabetes Analysis**](https://github.com/yaserkassam/Diabetes_Analysis)
+- [**Cryptocurrencies**](https://github.com/yaserkassam/Cryptocurrencies)
+- **Project 680 2**
+- **Project 680 3**
