@@ -9,5 +9,5 @@
 - [**Plotly**](https://github.com/yaserkassam/plotly_deployment)
 - [**Diabetes Analysis**](https://github.com/yaserkassam/Diabetes_Analysis)
 - [**Cryptocurrencies**](https://github.com/yaserkassam/Cryptocurrencies)
-- **Project 680 2**
+- [**Advertising Analysis**](https://github.com/yaserkassam/Advertisement_Analysis)
 - **Project 680 3**
