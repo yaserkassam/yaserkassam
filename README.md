@@ -16,7 +16,6 @@
 - [**Diabetes Analysis**](https://github.com/yaserkassam/Diabetes_Analysis)
 - [**Cryptocurrencies**](https://github.com/yaserkassam/Cryptocurrencies)
 - [**Advertising Analysis**](https://github.com/yaserkassam/Advertisement_Analysis)
-- **Project 680 3**
 #### JavaScript
 - [**Plotly**](https://yaserkassam.github.io/plotly_deployment/)
 #### R
