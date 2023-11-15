@@ -18,4 +18,4 @@
 - [**Advertising Analysis**](https://github.com/yaserkassam/Advertisement_Analysis)
 - **Project 680 3**
 #### JavaScript
-- [**Plotly**](https://github.com/yaserkassam/plotly_deployment)
+- [**Plotly**](https://yaserkassam.github.io/plotly_deployment/)
