@@ -16,7 +16,11 @@
 - [**Diabetes Analysis**](https://github.com/yaserkassam/Diabetes_Analysis)
 - [**Cryptocurrencies**](https://github.com/yaserkassam/Cryptocurrencies)
 - [**Advertising Analysis**](https://github.com/yaserkassam/Advertisement_Analysis)
+- [**Amazon Vine Analysis**](https://github.com/yaserkassam/Amazon_Vine_Analysis)
+- [**Charity Analysis**](https://github.com/yaserkassam/Neural_Network_Charity_Analysis)
+- [
 #### JavaScript
 - [**Plotly**](https://yaserkassam.github.io/plotly_deployment/)
+- [**UFO Sightings**](https://github.com/yaserkassam/UFOs)
 #### R
 - [**Mecha-Car Analysis**](https://github.com/yaserkassam/MechasCar_Statistical_Analysis)
