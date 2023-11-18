@@ -17,7 +17,7 @@ Data Scientist/Analyst with a masters in data science and skills in: Data Analys
 #### Python
 - [**NFT Model**](https://github.com/aortiz224/bootcamp_finalproject)
 - [**Diabetes Analysis**](https://github.com/yaserkassam/Diabetes_Analysis)
-- [**Bikesharing Analysis**](https://github.com/yaserkassam/bikesharing)
+- [**Bike Sharing Analysis**](https://github.com/yaserkassam/bikesharing)
 - [**Advertising Analysis**](https://github.com/yaserkassam/Advertisement_Analysis)
 - [**Amazon Vine Analysis**](https://github.com/yaserkassam/Amazon_Vine_Analysis)
 - [**Charity Analysis**](https://github.com/yaserkassam/Neural_Network_Charity_Analysis)
