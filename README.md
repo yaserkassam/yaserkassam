@@ -1,5 +1,5 @@
 # **Hi, I'm Yaser Kassam 👋**
-## **Data Analyst/ Data Scientist** 
+## **Data Scientist/ Data Analyst** 
 ### 👤Personal Info
 - Email: yaser.m.kassam@gmail.com
 - LinkedIn: [Yaser Kassam](https://www.linkedin.com/in/yaser-kassam-b5731515b/)
